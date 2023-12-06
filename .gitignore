@@ -1,0 +1,9 @@
+# vscode configuration
+/.vscode
+
+# binaries
+*.exe
+*.pdb
+*.dll
+*.lib
+/build
